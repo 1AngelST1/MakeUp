@@ -1,0 +1,38 @@
+[
+    {
+        "link": "http:\/\/localhost\/makeupstore\/post-type-cartflows_step-sitemap-1.xml",
+        "updated": "2025-11-30T07:41:11+00:00"
+    },
+    {
+        "link": "http:\/\/localhost\/makeupstore\/post-type-elementor-hf-sitemap-1.xml",
+        "updated": "2025-11-30T07:41:11+00:00"
+    },
+    {
+        "link": "http:\/\/localhost\/makeupstore\/post-type-elementor_library-sitemap-1.xml",
+        "updated": "2025-11-30T07:41:11+00:00"
+    },
+    {
+        "link": "http:\/\/localhost\/makeupstore\/post-type-page-sitemap-1.xml",
+        "updated": "2025-11-30T07:41:11+00:00"
+    },
+    {
+        "link": "http:\/\/localhost\/makeupstore\/post-type-post-sitemap-1.xml",
+        "updated": "2025-11-30T07:41:10+00:00"
+    },
+    {
+        "link": "http:\/\/localhost\/makeupstore\/post-type-product-sitemap-1.xml",
+        "updated": "2025-11-30T07:41:11+00:00"
+    },
+    {
+        "link": "http:\/\/localhost\/makeupstore\/taxonomy-type-category-sitemap-1.xml",
+        "updated": "2025-11-30T07:41:11+00:00"
+    },
+    {
+        "link": "http:\/\/localhost\/makeupstore\/taxonomy-type-product_cat-sitemap-1.xml",
+        "updated": "2025-11-30T07:41:11+00:00"
+    },
+    {
+        "link": "http:\/\/localhost\/makeupstore\/taxonomy-type-product_tag-sitemap-1.xml",
+        "updated": "2025-11-30T07:41:11+00:00"
+    }
+]
